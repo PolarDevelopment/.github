@@ -23,4 +23,4 @@ Polar Hosting is our biggest product right now. Our goal with Polar Hosting is t
 
 - [Jbablestime (Owner and Founder)](https://github.com/jbablestime)
 - [2002Spiele (Owner)](https://github.com/2002Spiele)
-- [Acey (Lead Developer)](https://github.com/AceyV)
+- [Acey (Manager)](https://github.com/AceyV)
