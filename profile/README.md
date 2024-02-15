@@ -1,4 +1,4 @@
-# PolarDevelopment
+# Polar Development
 
 Welcome to Polar Development! This is a repository dedicated to software development projects and resources.
 
@@ -24,3 +24,4 @@ Polar Hosting is our biggest product right now. Our goal with Polar Hosting is t
 - [Jbablestime (Owner and Founder)](https://github.com/jbablestime)
 - [2002Spiele (Owner)](https://github.com/2002Spiele)
 - [Acey (Manager and Lead Developer)](https://github.com/AceyV)
+- - [Venqoi (Manager)](https://github.com/venqoi)
